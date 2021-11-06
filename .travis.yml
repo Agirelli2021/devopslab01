@@ -11,7 +11,7 @@ os: linux
 
 addons:
   sonarcloud:
-    organization: Agirelli2021
+    organization: agirelli2021
     token: ${SONAR_TOKEN}
 
 jobs:
